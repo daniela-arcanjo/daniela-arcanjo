@@ -4,13 +4,13 @@
 <h4 align="center"> Tenho mais de 5 anos de experiência como QA, com atuação nos setores bancário, de jogos, e-commerce e telefonia.</h4>
 
 &nbsp;&nbsp;&nbsp;
-## **📊 Estatísticas:** <img align="right" src="https://komarev.com/ghpvc/?username=0028dani&color=fd6d95"><br>
+## **📊 Estatísticas:** <img align="right" src="https://komarev.com/ghpvc/?username=daniela-arcanjo&color=fd6d95"><br>
 &nbsp;&nbsp;&nbsp;
 
 <div align="center">
   <a href="https://github.com/daniela-arcanjo">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=0028dani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0028dani&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=daniela-arcanjo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniela-arcanjo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ## **👨🏽‍💻 Skills:**

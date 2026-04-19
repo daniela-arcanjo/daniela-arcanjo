@@ -54,4 +54,4 @@
 </div>
 &nbsp;&nbsp;&nbsp;
 
-![snake gif](https://github.com/0028dani/0028dani/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/daniela-arcanjo/daniela-arcanjo/blob/output/github-contribution-grid-snake.gif)

@@ -21,7 +21,7 @@
 </div>
 
 ### Frameworks e Bibliotecas
-<table border="0" align="center">
+<table border="0">
   <tr>
     <td align="center" width="100">
 <img align="center" alt="Node.js" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs">

@@ -21,13 +21,25 @@
 </div>
 
 ### Frameworks e Bibliotecas
-
+<table border="0" align="center">
+  <tr>
+    <td align="center" width="100">
 <img align="center" alt="Node.js" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs">
+      </td>
+    <td align="center" width="100">
 <img align="center" alt="Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg">
+    </td>
+    <td align="center" width="100">
 <img align="center" alt="Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg">
+  </td>
+  <td align="center" width="100">
 <img align="center" alt="Axios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg">
+  </td>
+  <td align="center" width="100">
 <img align="center" alt="Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
-
+      </td>
+    </tr>
+</table>
 
  ### Banco de dados
 <div>

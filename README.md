@@ -13,12 +13,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniela-arcanjo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-## **👨🏽‍💻 Skills:**
+## **👩🏻‍💻 Skills:**
 ### Linguagens
-<div>
+<table border="0">
+  <tr>
+    <td align="center" width="100">
     <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      </td>
+    <td align="center" width="100">
     <img align="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-</div>
+      </td>
+    </tr>
+</table>
 
 ### Frameworks e Bibliotecas
 <table border="0">
@@ -31,10 +37,10 @@
     </td>
     <td align="center" width="100">
 <img align="center" alt="Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg">
-  </td>
+      </td>
   <td align="center" width="100">
 <img align="center" alt="Axios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg">
-  </td>
+      </td>
   <td align="center" width="100">
 <img align="center" alt="Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
       </td>
@@ -42,26 +48,51 @@
 </table>
 
  ### Banco de dados
-<div>
+<table border="0">
+  <tr>
+    <td align="center" width="100">
     <img align="center" alt="MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-</div>
+      </td>
+    </tr>
+</table>
 
 ### Versionamento
-<div>
+<table border="0">
+  <tr>
+        <td align="center" width="100">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+            </td>
+        <td align="center" width="100">
     <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+            </td>
+         <td align="center" width="100">
     <img align="center" alt="Bitbucket" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg">
-</div>
+            </td>
+    </tr>
+</table>
 
  ### Ferramentas e Plataformas
-<div>
+<table border="0">
+  <tr>
+        <td align="center" width="100">
     <img align="center" alt="Jira" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg">
+          </td>
+        <td align="center" width="100">
     <img align="center" alt="AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
+          </td>
+          <td align="center" width="100">
     <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+            </td>
+          <td align="center" width="100">
     <img align="center" alt="Confluence" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg">
+          <td align="center" width="100">
     <img align="center" alt="Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+            </td>
+          <td align="center" width="100">
     <img align="center" alt="Browser" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/browserstack/browserstack-original.svg">
-</div>
+      </td>
+    </tr>
+</table>
 &nbsp;&nbsp;&nbsp;
 
 ![snake gif](https://github.com/daniela-arcanjo/daniela-arcanjo/blob/output/github-contribution-grid-snake.gif)
